@@ -1,5 +1,5 @@
 ## Hi there 👋
-**# 💫 About Me:
+## 💫 About Me:
 EXPLORING OPEN SOURCE<br>CURRENTLY BUILDING REAL WORLD PROJECTS<br>
 
 
