@@ -25,10 +25,10 @@ EXPLORING OPEN SOURCE<br>CURRENTLY BUILDING REAL WORLD PROJECTS
 ---
 [![](https://visitcount.itsvg.in/api?id=kanishka-2007-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="567" height="567" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/c04ad294-3d2e-40a4-bfee-7d7874612a30" />
-<img width="567" height="567" alt="gssoc-badge-prolific" src="https://github.com/user-attachments/assets/517cb690-cd1b-440d-96ee-a1d1b567ba08" />
-<img width="567" height="567" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a539751d-4e9c-4b03-acb3-9ed52cc2b6a7" />
-<img width="567" height="567" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/7c65a298-9be4-454a-bb1e-63b93a1fdb2b" />
+<img width="345" height="345" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/c04ad294-3d2e-40a4-bfee-7d7874612a30" />
+<img width="345" height="345" alt="gssoc-badge-prolific" src="https://github.com/user-attachments/assets/517cb690-cd1b-440d-96ee-a1d1b567ba08" />
+<img width="345" height="345" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a539751d-4e9c-4b03-acb3-9ed52cc2b6a7" />
+<img width="345" height="345" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/7c65a298-9be4-454a-bb1e-63b93a1fdb2b" />
 
 
 
