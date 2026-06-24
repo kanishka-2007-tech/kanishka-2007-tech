@@ -30,45 +30,7 @@ EXPLORING OPEN SOURCE<br>CURRENTLY BUILDING REAL WORLD PROJECTS
 <img width="345" height="345" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a539751d-4e9c-4b03-acb3-9ed52cc2b6a7" />
 <img width="345" height="345" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/7c65a298-9be4-454a-bb1e-63b93a1fdb2b" />
 
-name: GitHub Snake Game
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci"
 
 
 
