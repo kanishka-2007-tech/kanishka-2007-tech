@@ -90,9 +90,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/kanishka-2007-tech/kanishka-2007-tech/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/kanishka-2007-tech/kanishka-2007-tech/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
