@@ -52,11 +52,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanishka-2007-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-2007-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishka-2007-tech&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
