@@ -125,7 +125,7 @@
 
 ---
 
-# ☕ Support Me
+# ☕ connect with Me
 
 <p align="center">
 
