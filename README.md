@@ -35,11 +35,6 @@
 | [**GestureGame**](https://github.com/kanishka-2007-tech/GestureGame) | *Add one line, e.g. a game controlled by hand gestures.* | HTML/JS |
 | [**Hospital Management System**](https://github.com/kanishka-2007-tech/hospital-management-system) | Python + MySQL hospital management app | Python, MySQL |
 
-## 🌍 Open Source Contributions
-| Project | Contribution | PR |
-|---|---|---|
-| [project-name](https://github.com/org/repo) | What you fixed or added | [#123](https://github.com/org/repo/pull/123) |
-| [project-name](https://github.com/org/repo) | What you fixed or added | [#456](https://github.com/org/repo/pull/456) |
 
 ## 📊 GitHub Stats
 <p align="center">
